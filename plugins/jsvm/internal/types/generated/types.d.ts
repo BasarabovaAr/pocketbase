@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/pocketbase/pocketbase/plugins/jsvm/internal/types/generated/types.d.ts
