@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/pocketbase/pocketbase/ui/src/utils/CommonHelper.js
